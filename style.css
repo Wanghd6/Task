@@ -454,6 +454,13 @@ body {
     line-height: 2;
 }
 
+.underlined {
+    border-bottom: 1px dashed #797a7e;
+    /* text-decoration-color: #797a7e;
+    text-decoration-style: dashed; */
+    /* padding-bottom: 1px; */
+}
+
 .line_1,
 .line_2,
 .line_3 {
@@ -484,32 +491,32 @@ body {
 }
 
 .line_1 .dot {
-    margin-top: 2px;
+    margin-top: 5px;
 }
 
 .line_2 {
-    margintop: 1px;
+    margin-top: 9px;
 }
 
 .line_2 p {
-    margin-top: 8px;
+    margin-top: 2px;
 }
 
 .line_2 .dot {
-    margin-top: 12px;
+    margin-top: 5px;
 }
 
 .line_3 {
     float: left;
     display: inline-block;
     width: 691px;
-    margin-top: 17px;
+    margin-top: 8px;
     margin-left: 7px;
     padding-left: 18px;
 }
 
 .line_3 .dot {
-    margin-top: 3px;
+    margin-top: 5px;
 }
 
 .line_3 p {

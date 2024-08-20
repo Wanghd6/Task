@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- 引入js文件 -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div class="page">
+        <div class="bar">
+            <div class="navbar">
+                <span class="left_nav">
+                    <ul class="function">
+                        <li>
+                            <a href="">文件</a>
+                            <ul>
+                                <li class="load">
+                                    <input type="file" class="file-input" placeholder="导入" accept=".txt,.md">
+                                    <span class="custom-file-label">导入</span>
+                                </li>
+                            </ul>
+                        <li class="reseticon" href="">重置</li>
+                        </li>
+                    </ul>
+                </span>
+                <span class="right_nav">
+                </span>
+            </div>
+            <div class="toolbar">
+                <ul class="tools">
+                    <li title="删除线" class="iconfont shanchu">&#xe611;</li>
+                    <li title="加粗" class="iconfont jiacu">&#xe71d;</li>
+                    <li title="斜体" class="iconfont xieti">&#xe61c;</li>
+                    <li title="代码块" class="iconfont ">&#xe6db;</li>
+                    <li title="行内代码" class="iconfont">&#xe7dd;</li>
+                    <!-- <li title="" class="iconfont">&#xe83d;</li> -->
+                    <!-- <li class="iconfont">&#xe6ac;</li> -->
+                    <!-- <li class="iconfont">&#xe62c;</li> -->
+                </ul>
+            </div>
+        </div>
+        <div class="container">
+            <div class="md_edit">
+                <textarea class="file-content"></textarea>
+            </div>
+            <div class="rich_text">
+                <div class="preview-area"></div>
+            </div>
+        </div>
+        <!-- 重置弹窗 -->
+        <div class="reset">
+            <div class="tittle">
+                <span class="iconfont icon">&#xe8e9;</span>
+                <span class="resetfont">确认重置么?</span>
+            </div>
+            <div class="resetbody">
+                <div>重置后将丢失本地保存的文本。</div>
+                <div class="resetbutton">
+                    <span class="no">取消</span>
+                    <span class="yes">确定</span>
+                </div>
+            </div>
+        </div>
+        <!-- 遮盖层 -->
+        <div class="bg"></div>
+    </div>
+
+</body>
+
+</html>

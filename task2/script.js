@@ -154,7 +154,7 @@ window.addEventListener('load', function () {
     });
     var yes = document.querySelector('.yes');
     yes.addEventListener('click', function () {
-        fetch('test.md')
+        fetch('./test.md')
             .then(response => response.text())
             .then(data => {
                 document.querySelector('.file-content').value = data;

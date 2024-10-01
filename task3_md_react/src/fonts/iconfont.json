@@ -1,0 +1,79 @@
+{
+  "id": "4653939",
+  "name": "task2",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1727527",
+      "name": "306问号-线性圆框",
+      "font_class": "wenhao-xianxingyuankuang",
+      "unicode": "e8e9",
+      "unicode_decimal": 59625
+    },
+    {
+      "icon_id": "23321784",
+      "name": "代码块",
+      "font_class": "daimakuai",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "9919667",
+      "name": "行内代码",
+      "font_class": "hangneidaima",
+      "unicode": "e7dd",
+      "unicode_decimal": 59357
+    },
+    {
+      "icon_id": "538867",
+      "name": "列表",
+      "font_class": "liebiao",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "7192343",
+      "name": "T-加粗",
+      "font_class": "T-jiacu",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "10594742",
+      "name": "表-表格_jurassic",
+      "font_class": "jurassic_table",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "12753043",
+      "name": "图片",
+      "font_class": "tupian_huaban",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "19657879",
+      "name": "删除线",
+      "font_class": "strikethrough",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "19657931",
+      "name": "斜体",
+      "font_class": "italic",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "34453021",
+      "name": "link",
+      "font_class": "link",
+      "unicode": "e83d",
+      "unicode_decimal": 59453
+    }
+  ]
+}

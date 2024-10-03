@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Wanghd6/md2html.git/static/css/main.083d21b9.css",
+    "main.js": "/Wanghd6/md2html.git/static/js/main.7aa2f980.js",
+    "static/js/804.6041eeb8.chunk.js": "/Wanghd6/md2html.git/static/js/804.6041eeb8.chunk.js",
+    "static/js/603.86fd9ffb.chunk.js": "/Wanghd6/md2html.git/static/js/603.86fd9ffb.chunk.js",
+    "static/js/555.7c63acb6.chunk.js": "/Wanghd6/md2html.git/static/js/555.7c63acb6.chunk.js",
+    "static/js/848.55f2a31d.chunk.js": "/Wanghd6/md2html.git/static/js/848.55f2a31d.chunk.js",
+    "static/js/981.868bdb95.chunk.js": "/Wanghd6/md2html.git/static/js/981.868bdb95.chunk.js",
+    "static/js/96.d131c9b3.chunk.js": "/Wanghd6/md2html.git/static/js/96.d131c9b3.chunk.js",
+    "static/media/iconfont.ttf?t=1724056900368": "/Wanghd6/md2html.git/static/media/iconfont.5b68e3d502b23e03f47b.ttf",
+    "static/media/iconfont.woff?t=1724056900368": "/Wanghd6/md2html.git/static/media/iconfont.977af30f20c7ea796430.woff",
+    "static/media/iconfont.woff2?t=1724056900368": "/Wanghd6/md2html.git/static/media/iconfont.aa6e78c13c2cc80dc984.woff2",
+    "index.html": "/Wanghd6/md2html.git/index.html",
+    "main.083d21b9.css.map": "/Wanghd6/md2html.git/static/css/main.083d21b9.css.map",
+    "main.7aa2f980.js.map": "/Wanghd6/md2html.git/static/js/main.7aa2f980.js.map",
+    "804.6041eeb8.chunk.js.map": "/Wanghd6/md2html.git/static/js/804.6041eeb8.chunk.js.map",
+    "603.86fd9ffb.chunk.js.map": "/Wanghd6/md2html.git/static/js/603.86fd9ffb.chunk.js.map",
+    "555.7c63acb6.chunk.js.map": "/Wanghd6/md2html.git/static/js/555.7c63acb6.chunk.js.map",
+    "848.55f2a31d.chunk.js.map": "/Wanghd6/md2html.git/static/js/848.55f2a31d.chunk.js.map",
+    "981.868bdb95.chunk.js.map": "/Wanghd6/md2html.git/static/js/981.868bdb95.chunk.js.map",
+    "96.d131c9b3.chunk.js.map": "/Wanghd6/md2html.git/static/js/96.d131c9b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.083d21b9.css",
+    "static/js/main.7aa2f980.js"
+  ]
+}
